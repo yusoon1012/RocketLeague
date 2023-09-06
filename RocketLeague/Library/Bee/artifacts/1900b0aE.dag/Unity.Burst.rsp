@@ -325,7 +325,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.27f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.27f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.3.27f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
--r:"C:/Users/KGA/Desktop/UnityProjects/cartest/RocketLeague/Library/PackageCache/com.unity.burst@1.8.4/Unity.Burst.Unsafe.dll"
+-r:"C:/Users/KGA/Desktop/UnityProjects/RocketLeague/RL_main/RocketLeague/Library/PackageCache/com.unity.burst@1.8.4/Unity.Burst.Unsafe.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 "Library/PackageCache/com.unity.burst@1.8.4/Runtime/BurstCompileAttribute.cs"
